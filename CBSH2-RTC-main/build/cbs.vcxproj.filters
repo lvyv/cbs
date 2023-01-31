@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\CBS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\CBSHeuristic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\CBSNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\Conflict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\ConstraintPropagation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\ConstraintTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\CorridorReasoning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\IncrementalPairwiseMutexPropagation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\Instance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\MDD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\MutexReasoning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\RectangleReasoning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\ReservationTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\SIPP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\SingleAgentSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\SpaceTimeAStar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\document\source\repos\CBSH2-RTC-main\src\driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\document\source\repos\CBSH2-RTC-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4925E8D7-3022-3A96-8410-D0EC5E59BD36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

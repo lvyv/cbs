@@ -1,0 +1,9 @@
+.idea
+.vs
+cmake-*
+bin
+*.bin
+*.obj
+*.tlog
+*.json
+*.csv
