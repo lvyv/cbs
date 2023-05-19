@@ -1,0 +1,8 @@
+-m zxk-105x34.map -a bug_zxk105x34_0.scen -p bug_dynamic0.paths -o test.csv --outputPaths=bug_res_0_paths105x34.json -k 2
+
+-m zxk-105x34.map -a bug_zxk105x34_1.scen -p bug_dynamic1.paths -o test.csv --outputPaths=bug_res_1_paths105x34.json -k 2
+-m zxk-105x34.map -a bug_zxk105x34_2.scen -p bug_dynamic2.paths -o test.csv --outputPaths=bug_res_2_paths105x34.json -k 2
+-m zxk-105x34.map -a bug_zxk105x34_3.scen -p bug_dynamic3.paths -o test.csv --outputPaths=bug_res_3_paths105x34.json -k 1
+-m zxk-105x34.map -a bug_zxk105x34_4.scen -p bug_dynamic4.paths -o test.csv --outputPaths=bug_res_4_paths105x34.json -k 1
+-m zxk-105x34.map -a bug_zxk105x34_5.scen -p bug_dynamic5.paths -o test.csv --outputPaths=bug_res_5_paths105x34.json -k 1
+-m zxk-105x34.map -a bug_zxk105x34_6.scen -p bug_dynamic6.paths -o test.csv --outputPaths=bug_res_6_paths105x34.json -k 1
