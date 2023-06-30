@@ -129,6 +129,7 @@ void ConstraintTable::copy(const ConstraintTable& other)
 	length_max = other.length_max;
 	goal_location = other.goal_location;
 	latest_timestep = other.latest_timestep;
+	last_pct_planned_timestep = other.last_pct_planned_timestep;	//拷贝构造
 	num_col = other.num_col;
 	map_size = other.map_size;
 	ct = other.ct;
